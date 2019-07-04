@@ -12,12 +12,9 @@ layout: default
 <ul class="posts">
 	{%- for post in site.posts -%}
 	<br>
-	<br>
 	<li>
 		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		<a class="post-link" href="{{ post.url | relative_url }}">
-			<h2 class="post-title">{{ post.title | escape }}</h2>
-		</a>
+		<h2 class="post-title">{{ post.title | escape }}</h2>
 		<div class="post-meta">
 			<ul class="post-categories">
 				{%- for tag in post.categories -%}
