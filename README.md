@@ -1,8 +1,6 @@
-# plainwhite
+# Personal fork of plainwhite jekyll template
 
-Simplistic jekyll portfolio-style theme for writers.
-
-**Demo**: [thelehhman.com](https://thelehhman.com)
+**Demo**: [linharesh.github.io](https://linharesh.github.io)
 
 ![plainwhite theme preview](/screenshot.png)
 
