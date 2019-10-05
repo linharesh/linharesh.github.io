@@ -7,4 +7,6 @@ categories:
 
 I'm a Ph.D. Student at the [Computing Institute](http://www.ic.uff.br) of [Fluminense Federal University](http://www.uff.br/).  
 My research area is software engineering, and my current research project is in algorithmic debugging.  
-You can contact me through linhares.h@gmail.com or hlinhares@id.uff.br
+You can contact me through linhares.h@gmail.com or hlinhares@id.uff.br.  
+Check out my publications:  
+* [Provenance-enhanced Algorithmic Debugging](https://doi.org/10.1145/3350768.3350777)    
